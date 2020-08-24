@@ -1,0 +1,14 @@
+{
+  "slack_url":        "https://hooks.slack.com/services/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",
+  "channel_name":     "general",
+  "greeting_message": [
+    "May your Facebook wall be filled with messages from people you never talk to.",
+    "You’re older today than yesterday but younger than tomorrow.",
+    "Forget about the past, you can’t change it. Forget about the future, you can’t predict it. And forget about the present, I didn’t get you one.",
+    "Just wanted to be the first one to wish you happy birthday so I can feel superior to your other well-wishers.",
+    "You are only young once, but you can be immature for a lifetime.",
+    "As you get older three things happen. The first is your memory goes, and I can’t remember the other two.",
+    "Don’t get all weird about getting older! Our age is merely the number of years the world has been enjoying us!"],
+  "bot_name":         "Régis Laspalès",
+  "bot_emoji":        ":tada:"
+}
